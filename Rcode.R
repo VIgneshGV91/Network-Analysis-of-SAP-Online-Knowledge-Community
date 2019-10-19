@@ -1,9 +1,8 @@
 #Vigneshwaran Giri Velumani
-# Optional Advanced Lab 2: SAP Community Network
 #Read in the hs0 data over the internet using the read.table() function.
 getwd()
 # Save the data file to a location on your hard drive and specify the path here (Windows systems use forward slashes)
-setwd("C:/Vignesh/Studies/Fall 2019/564 Social Media Analytics/Advanced Lab")
+setwd("~setyourworkingdirectory")
 
 # clear everything out of memory
 rm(list=ls()) 
